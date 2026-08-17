@@ -289,6 +289,7 @@ Cybersecurity Enthusiast
 
 Interested in SOC Operations, SIEM Engineering, Detection Engineering, and Log Management.
 
-GitHub: https://github.com/<your-username>
+GitHub: https://github.com/<dilipcr07>
+>
 
-LinkedIn: https://linkedin.com/in/<your-profile>
+LinkedIn: https://www.linkedin.com/in/er-dilip-dhakal-448133389/<Dilip Dhakal>
