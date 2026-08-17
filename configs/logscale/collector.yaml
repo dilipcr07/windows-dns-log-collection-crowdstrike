@@ -1,0 +1,15 @@
+dataDirectory: C:\ProgramData\LogScale Collector\
+sources:
+  MS_Windows_DNS_Debug:
+    type: file
+    include:
+    - C:\Windows\System32\dns\dns.log
+    sink: humio
+ 
+sinks:
+  humio:
+    type: hec
+    proxy: none
+    token: your_connection-token
+    url: your_connection_url
+    
